@@ -1,5 +1,7 @@
 # WordleC - Word Guessing Game
 
+<img width="444" alt="Screenshot 2023-10-05 at 8 41 29 PM" src="https://github.com/franky-cast/WordleC/assets/113398924/94654e86-da2f-4ece-b5fd-8fa280d5b2bd">
+
 ## Introduction
 
 This repo implements a command line interface version of Wordle in C. User has the opportunity to guess a secret word of a specified length (5, 6, 7, or 8 letters) within a limited number of tries. The program provides colored feedback in the CLI.
